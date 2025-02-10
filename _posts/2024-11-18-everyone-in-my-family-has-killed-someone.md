@@ -4,7 +4,7 @@ title: "Everyone In My Family Has Killed Someone"
 author: "Benjamin Stevenson"
 categories: year_3
 tags: [book,fiction,crime,mystery,thriller]
-image: year_3/05_Everyone_In_My_Family_Has_Killed_Someone.png
+image: year_3/05_Everyone_In_My_Family_Has_Killed_Someone.jpg
 ---
 
 This book was selected by your mods out of the category of mystery and will be read from November 18 - December 29.
