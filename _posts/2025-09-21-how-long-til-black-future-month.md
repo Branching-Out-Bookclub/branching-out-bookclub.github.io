@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Long til Black Future Month"
+title: "How Long 'til Black Future Month?"
 author: "N. K. Jemisin"
 categories: year_4
 tags: [book,fiction,fantasy,short stories,science fiction,speculative fiction]
