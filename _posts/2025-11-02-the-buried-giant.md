@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "How Long 'til Black Future Month?"
-author: "N. K. Jemisin"
+title: "The Buried Giant"
+author: "Kazuo Ishiguro"
 categories: year_4
-tags: [book,fiction,fantasy,short stories,science fiction,speculative fiction]
-image: year_4/03_How_Long_til_Black_Future_Month.png
+tags: [book, fiction, fantasy, historical fiction, literary fiction]
+image: year_4/04_The_Buried_Giant.png
 ---
 
-This book was selected by your mod team and will be read from September 22 - November 2.
+This book was selected by Ginkgo branch members and will be read from November 2 - December 14.
 
-The mod who nominated the book, has a few words to share on why they made this suggestion: 
+The branch member who nominated the book, has a few words to share on why they made this suggestion:
 
-“I'm not someone who reads a lot of short story collections, because I often struggle to maintain my interest in them. I read this years ago but I still remember how hooked I was, and some stories have stuck with me to the point I still think about them regularly. I think we'll have a lot to talk about as a book club!"
+"I’ve read several books by the brilliant Kazuo Ishiguro and thoroughly enjoyed every one. I’m very excited to find out with you all what happens when he dives into Post-Arthurian England!."

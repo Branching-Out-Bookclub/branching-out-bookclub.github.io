@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "How Long 'til Black Future Month?"
-author: "N. K. Jemisin"
+title: "The Spellshop"
+author: "Sarah Beth Durst"
 categories: year_4
-tags: [book,fiction,fantasy,short stories,science fiction,speculative fiction]
-image: year_4/03_How_Long_til_Black_Future_Month.png
+tags: [book, fiction, fantasy, cozy fantasy, romance]
+image: year_4/07_The_Spellshop.png
 ---
 
-This book was selected by your mod team and will be read from September 22 - November 2.
+This book was selected by you via community vote from a genre picked by the mod team and will be read from March 23 - May 3.
 
-The mod who nominated the book, has a few words to share on why they made this suggestion: 
+The member who nominated the book, has a few words to share on why they made this suggestion:
 
-“I'm not someone who reads a lot of short story collections, because I often struggle to maintain my interest in them. I read this years ago but I still remember how hooked I was, and some stories have stuck with me to the point I still think about them regularly. I think we'll have a lot to talk about as a book club!"
+"The Spellshop is a great cozy fantasy that feels like a hot cup of tea and a warm hug. I look forward to spending time with you all on this comfy detour."

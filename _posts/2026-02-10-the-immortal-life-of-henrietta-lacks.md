@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "How Long 'til Black Future Month?"
-author: "N. K. Jemisin"
+title: "The Immortal Life of Henrietta Lacks"
+author: "Rebecca Skloot"
 categories: year_4
-tags: [book,fiction,fantasy,short stories,science fiction,speculative fiction]
-image: year_4/03_How_Long_til_Black_Future_Month.png
+tags: [book, non-fiction, science, history, biography]
+image: year_4/06_Henrietta_Lacks.png
 ---
 
-This book was selected by your mod team and will be read from September 22 - November 2.
+This book was selected by Wisteria branch members and will be read from February 10 - March 22.
 
-The mod who nominated the book, has a few words to share on why they made this suggestion: 
+The branch member who nominated the book, has a few words to share on why they made this suggestion:
 
-“I'm not someone who reads a lot of short story collections, because I often struggle to maintain my interest in them. I read this years ago but I still remember how hooked I was, and some stories have stuck with me to the point I still think about them regularly. I think we'll have a lot to talk about as a book club!"
+"I missed the heyday of this book and have been trying to make time for it since I learned about it in college. I'm interested in the discussions we could have around consent, privacy, and ownership, which seem to be continually up for debate as technology advances."
